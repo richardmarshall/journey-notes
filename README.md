@@ -4,6 +4,15 @@
 
 * 
 
+## Techniques
+
+### Fast flying
+### Dive boosting
+### Drop shooting
+### Reverse drop shooting
+### Charge boosting
+### Reverse charge boosing
+
 ## Chapters
 
 ### Chapter Select
