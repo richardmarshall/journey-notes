@@ -2,6 +2,10 @@
 
 This document is an attempt to organize various notes, bookmarks, and memories accumulated since starting to play the game at the beginning of 2013 into a single document.
 
+## Disclaimer
+
+I did not discover most of the content in this document, and what I did discover on my own I make no claim to be the first to do so. It has mostly been sourced from the TGC journey forum, youtube, and from fellow travellers met along the way. I will try and link to relevant sources for the various items when I'm aware of them.
+
 ## Glossary
 
 * 
