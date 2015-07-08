@@ -1,5 +1,7 @@
 # Journey Game notes
 
+This document is an attempt to organize various notes, bookmarks, and memories accumulated since starting to play the game at the beginning of 2013 into a single document.
+
 ## Glossary
 
 * 
@@ -36,10 +38,14 @@
 
 #### Charge boost spots
 
+* 
+
 #### Backstage entrances
 
-* Cave of head-bonking - In the cave below the glyph on the raised ledge there is a whole in the ceiling that can be flown through. Once through walk away from the cave entrance up the sand wall and up to the top of the main level cliff.
-* RCB - Using the charge boost spot next to the glyph to RCB you can get enough height to go over the barrier.
+* Cave of head bonking - In the cave below the glyph on the raised ledge there is a whole in the ceiling that can be flown through. Once through walk away from the cave entrance up the sand wall and up to the top of the main level cliff.
+* Over wind wall - Using the charge boost spot next to the glyph you can get enough height to go over the barrier.
+* Through sand falls - Using the charge boost spot next to the glyph you can fly through a hole in the top left area of the sand fall above.
+* Entrance side - Using the same charge boost spot you can fly over the barrier on the entrance side of the level as well. (https://youtu.be/0efbfKNe0yk)
 * RDS - It is possible to RDS along the ground and get high enough to fly straight over the barrier. (https://youtu.be/kaWKXHBdj04?t=1m45s)
 
 #### Fun sights (in bounds)
@@ -157,7 +163,8 @@
 
 #### Backstage entrances
 
-* 
+* Kelp - (https://youtu.be/_SVj9GaPhOQ)
+* Top pools - (https://youtu.be/HuKecYwixwU)
 
 #### Fun sights (in bounds)
 
@@ -169,4 +176,6 @@
 
 These YT channels conatin a wealth of information
 
+* Klowny - https://www.youtube.com/user/belovedklowny/videos
+* GOM - https://www.youtube.com/user/MangarFruit97/videos
 * https://www.youtube.com/channel/UCG0orawuCp8tmd22J--hf0g/videos
